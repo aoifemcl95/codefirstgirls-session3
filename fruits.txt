@@ -2,3 +2,4 @@ apples
 oranges
 bananas
 grapes 
+strawberries
